@@ -7,3 +7,8 @@ pip install streamlit
 ! streamlit run dashboard.py & npx localtunnel --port 8501
 ```
 Klik link URL dari output streamlit run dashboard. Masukkan kode yang ada ipvp (contoh : 12.34.567.890) pada link tersebut. Kemudian, jalankan dashboard.py 
+
+## Run Streamlit 
+```python
+streamlit run dashboard.py
+```
